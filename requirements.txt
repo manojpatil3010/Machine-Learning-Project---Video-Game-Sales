@@ -1,4 +1,11 @@
 streamlit
 matplotlib
+pandas
+seaborn
+numpy
+sklearn
+joblib
+warnings
+
 
 
