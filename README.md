@@ -1,6 +1,6 @@
-# Machine-Learning-Project--Video-Game-Sale-Predictor
+# Machine-Learning-Project--Video-Games-Sales-Predictor
 
-- This project is all about of The Machine Learning model to predict future sales of Video Games in gloabal market. We will learn different patterns and relationships between the input Variables or factors that affecting to the video games sales. We analyse data to get meaningfull information from them and Visualize to recognise different patterns among them and showing meaning full information that will help us to predict sales data by creating effective machine learning model. We use Data set which contains the list of video games with sales greater than 16500 games in global market. 
+- This project is all about of The Machine Learning model to predict future sales of Video Games in global market. We will learn different patterns and relationships between the input Variables or factors that affecting to the video games sales. We analyse data to get meaningfull information from them and Visualize to recognise different patterns among them and showing meaning full information that will help us to predict sales data by creating effective machine learning model. We use Data set which contains the list of video games with sales greater than 16500 games in global market. 
 
 # Project Structure:-
 Project comprises of following Analysis Methods and ML techniques :-
